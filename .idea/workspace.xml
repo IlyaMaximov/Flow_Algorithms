@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="flow_contest" targetName="flow_contest" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8023e858-c6ae-4717-b746-37e642fec68e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1REfLnTamoBGM7fIXw81wpujcfR" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/MaximumFlow-MKM-RelabelToFront-master/MaximumFlow-MKM-RelabelToFront-master/main.cpp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="flow_contest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="flow_contest" TARGET_NAME="flow_contest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="flow_contest" RUN_TARGET_NAME="flow_contest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8023e858-c6ae-4717-b746-37e642fec68e" name="Default Changelist" comment="" />
+      <created>1569237122409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569237122409</updated>
+      <workItem from="1569237123799" duration="2517000" />
+      <workItem from="1569254735167" duration="11821000" />
+      <workItem from="1569274066087" duration="358000" />
+      <workItem from="1569318892631" duration="3480000" />
+      <workItem from="1569336517708" duration="12266000" />
+      <workItem from="1569595498112" duration="514000" />
+      <workItem from="1569596155762" duration="20990000" />
+      <workItem from="1569655371968" duration="162000" />
+      <workItem from="1569663619658" duration="9983000" />
+      <workItem from="1569684846294" duration="16445000" />
+      <workItem from="1569742938209" duration="35498000" />
+      <workItem from="1569782432405" duration="6030000" />
+      <workItem from="1569789754127" duration="1367000" />
+      <workItem from="1569826075495" duration="3656000" />
+      <workItem from="1569833838892" duration="32238000" />
+      <workItem from="1569922550399" duration="8803000" />
+      <workItem from="1569958270926" duration="34000" />
+      <workItem from="1569963311933" duration="5595000" />
+      <workItem from="1569997800738" duration="12440000" />
+      <workItem from="1570190306207" duration="13131000" />
+      <workItem from="1570269289225" duration="21734000" />
+      <workItem from="1570341622990" duration="23000" />
+      <workItem from="1570341865893" duration="88000" />
+      <workItem from="1570381075571" duration="11996000" />
+      <workItem from="1570527949923" duration="4420000" />
+      <workItem from="1570554696612" duration="2759000" />
+      <workItem from="1570599317493" duration="5904000" />
+      <workItem from="1570720380928" duration="11042000" />
+      <workItem from="1570785976013" duration="12972000" />
+      <workItem from="1570823129464" duration="136000" />
+      <workItem from="1571995731751" duration="20000" />
+      <workItem from="1571995786997" duration="1110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="can" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
